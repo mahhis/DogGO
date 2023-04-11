@@ -1,5 +1,7 @@
 package by.fpmibsu.doggo.entity;
 
+import by.fpmibsu.doggo.entity.enums.Role;
+
 import java.io.Serializable;
 import java.util.List;
 

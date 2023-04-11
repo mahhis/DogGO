@@ -1,4 +1,4 @@
-package by.fpmibsu.doggo.entity;
+package by.fpmibsu.doggo.entity.enums;
 
 public enum Role {
     ADMIN, USER, WALKER

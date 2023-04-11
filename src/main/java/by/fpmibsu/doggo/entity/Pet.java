@@ -1,5 +1,8 @@
 package by.fpmibsu.doggo.entity;
 
+import by.fpmibsu.doggo.entity.enums.Breed;
+import by.fpmibsu.doggo.entity.enums.Color;
+
 import java.util.List;
 
 public class Pet {
