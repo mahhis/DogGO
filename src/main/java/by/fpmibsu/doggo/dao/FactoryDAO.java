@@ -1,5 +1,8 @@
 package by.fpmibsu.doggo.dao;
 
+import by.fpmibsu.doggo.dao.impl.OrderDAOImpl;
+import by.fpmibsu.doggo.dao.impl.UserDAOImpl;
+
 public class FactoryDAO {
 
     private final static FactoryDAO instance = new FactoryDAO();
