@@ -9,6 +9,8 @@ DogGO – это web платформа для собачников, в кото
 а именно обучение новым командам и их ежедневное закрепление.
 
 
+
+
 Технологии
 
  Используемые технологии: 1) Стек Java EE; 2) База данных PostgreSQL; 3) Java Server Pajes(JSP); 4) Система контроля версий Git; 5) Система сборки Maven;
@@ -37,4 +39,7 @@ DogGO – это web платформа для собачников, в кото
 структура сервера
 
 ![image](https://github.com/mahhis/DogGO/assets/69684745/3ccfab78-5ab1-46cd-a2c8-d7b3df04e408)
+
+![image](https://github.com/mahhis/DogGO/assets/69684745/635c4888-099e-48b7-bd0e-a255a799f1e2)
+
 
