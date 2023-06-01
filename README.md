@@ -45,6 +45,9 @@ DogGO – это web платформа для собачников, в кото
 
 ![image](https://github.com/mahhis/DogGO/assets/69684745/b8bb4a6a-589d-43ea-9842-06cd2668af9c)
 
+![Uploading image.png…]()
+
+
 
 
 
