@@ -38,7 +38,10 @@ DogGO – это web платформа для собачников, в кото
 
 структура сервера
 
-![image](https://github.com/mahhis/DogGO/assets/69684745/3ccfab78-5ab1-46cd-a2c8-d7b3df04e408)
+контроллер 
+
+![image](https://github.com/mahhis/DogGO/assets/69684745/b554f241-7fa1-4803-a495-3bdbbf31471f)
+
 
 ![image](https://github.com/mahhis/DogGO/assets/69684745/635c4888-099e-48b7-bd0e-a255a799f1e2)
 
